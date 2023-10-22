@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://gamebrott.com/wp-content/uploads/2021/05/Genshin-Impact-Diluc-467x1024.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: right top;
+    background-attachment: fixed;
+   
+}
+
+.container {
+    width: 800px;
+    margin 20x right: inherit;
+    background-color: rgba(240, 248, 255, 0);
+    border-left: 10px solid hsl(180, 3%, 8%);
+    border-right: 10px dashed  #3d0101da;
+    
+}
+
+h1 {
+    background-color: #2270b4a1;
+    color: #3d0101da;
+    text-align: center;
+}
+
+h2 {
+    background-color:#2270b4a1;
+    color:#3d0101da;
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+    text-align: justify;
+    background-color: rgb(38, 211, 150);
+    
+}
+
+h2 {
+    background-color: #2270b4a1;
+    color: #3d0101da;
+    text-align: center;
+}
