@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Hentaigana+Akari&display=swap');
+
+/* CSS untuk header 1 */
+header {
+    background-color: black;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibANjKF1p0EH43hsUkD6L8RgKt5Mn10zA9w&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: left;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+}
+
+/* CSS untuk latar belakang body */
+body {
+    background: linear-gradient(to bottom, #afc0d3, #bd3d3d); /* Gradient biru */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://celcliptipsprod.s3-ap-northeast-1.amazonaws.com/tips_article_body/0695/631305/327fc690caac27c5c6a60da857d4ce3e);
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+ *{
+    scroll-behavior: smooth;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif
+}
+
+/* CSS untuk gambar Line Webtoon */
+#webtoon-image {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    border: 3px solid #fcfffc;
+    border-radius: 10px;
+}
+
+/* CSS untuk outline */
+.outline {
+    outline-style: double;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4e2d8ec;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+    text-align: justify;
+}
+
+.outline h2 {
+    font-size: 24px;
+    background-color: #99f2c8;
+    text-align: center;
+    border-left: 10px solid hsla(197, 92%, 64%, 0.904);
+    border-right: 10px solid  hsla(197, 92%, 64%, 0.904);
+}
+
+/* CSS untuk list */
+.list {
+    outline-style: double;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4e2d8ec;
+    border-radius: 10px;
+    font-family: 'Yuji Hentaigana Akari', cursive; /* Mengubah font */
+}
+
+.list h2 {
+    font-size: 24px;
+    background-color: #99f2c8;
+    text-align: center;
+    border-left: 10px solid hsla(197, 92%, 64%, 0.904);
+    border-right: 10px solid  hsla(197, 92%, 64%, 0.904);
+}
+
+ul {
+    list-style: square;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+li satu {
+    cursor: help;
+}
+
+/* CSS untuk tautan dalam list */
+ul li a {
+    text-decoration: none;
+    color: #09af24fd;
+    font-weight: bold; /* Teks lebih tebal */
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+/* CSS untuk Update From Dreams to Freedom< */
+.Manhwa {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background: #f4e2d8ec; /* fallback for old browsers */
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+}
+
+.Manhwa h2 {
+    font-size: 24px;
+    background-color: #99f2c8;
+    text-align: center;
+    border-left: 10px solid hsla(197, 92%, 64%, 0.904);
+    border-right: 10px solid  hsla(197, 92%, 64%, 0.904);
+}
+
+/* CSS untuk kotak*/
+.box-model {
+    border: 2px solid hsl(0, 0%, 6%);      
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+}
+
+/* CSS untuk tabel (Update From Dreams to Freedom) */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center; /* Menengahkan isi tabel */
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */   
+}
+
+table thead {
+    background-color: #bd3d3d;
+    color: hwb(0 96% 0%);
+}
+
+table th, table td {
+    border: 1px solid #137718;
+    padding: 8px;
+}
+
+/* CSS (Mempublikasikan Karya Sendiri) */
+.Karya {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4e2d8ec;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+}
+
+.Karya h2 {
+    font-size: 24px;
+    background-color: #99f2c8;
+    text-align: center;
+    border-left: 10px solid hsla(197, 92%, 64%, 0.904);
+    border-right: 10px solid  hsla(197, 92%, 64%, 0.904);
+}
+
+/* CSS (Tersedia Dalam Berbagai Genre) */
+.Genre {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4e2d8ec;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+}
+
+.Genre h2 {
+    font-size: 24px;
+    background-color: #99f2c8;
+    text-align: center;
+    border-left: 10px solid hsla(197, 92%, 64%, 0.904);
+    border-right: 10px solid  hsla(197, 92%, 64%, 0.904);
+}
+
+/* CSS (Kabar Terkini Dari Webton Kanvas) */
+.contest {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4e2d8ec;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */   
+}
+
+.contest h2 {
+    font-size: 24px;
+    background-color: #99f2c8;
+    text-align: center;
+    border-left: 10px solid hsla(197, 92%, 64%, 0.904);
+    border-right: 10px solid  hsla(197, 92%, 64%, 0.904);
+}
+
+.footer {
+    background-color: hsl(0, 0%, 1%);
+    padding-bottom: 4%;
+    text-align: center;
+    color: white;
+    padding: 3px;
+    font-family: Arial, sans-serif; /* Mengubah font ke Arial */
+}
+
+/* CSS ICON*/
+.Youtube {
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    margin-right: 10px;
+}
