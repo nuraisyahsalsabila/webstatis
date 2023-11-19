@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kantin SMAN 19</title>
+    <link rel="stylesheet" href="cek.css" />
+   
+  </head>
+  <body>
+    <nav>
+      <div class="wrapper">
+        <div class="logo"><a href=""> Kantin Alif.</a></div>
+
+<!--Fonts-->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200;1,600&display=swap"
+  rel="stylesheet"
+/>
+        
+<!--Feather Icons-->
+<script src=" https://unpkg.com/feather-icons"></script>
+
+<div class="menu">
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">Tentang Kami</a></li>
+            <li><a href="#tim">Our Tim</a></li>
+            <li><a href="#partners">Menu</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="" class="tbl-biru">Sign Up</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="wrapper">
+      <!-- untuk home -->
+      <section id="home">
+    
+        <img
+          src="gambar/goreng 5.jpg"
+        />
+        <div class="kolom">
+          <p class="deskripsi">Makan sehat, prestasi meningkat!   &#128513;</p>
+          <h2>Mari Nikmati Seblak Pedas</h2>
+          <p>
+            Nikmati sensasi seblak pedas kami yang menggigit dengan bumbu khas
+            yang memukau hingga membuat lidah bergoyang.
+          </p>
+          <p><a href="" class="tbl-pink">Pesan Sekarang</a></p>
+        </div>
+      </section>
+
+      <!-- untuk about -->
+      <section id="about">
+        <div class="kolom">
+          <p class="deskripsi">Kantin SMAN 19 Bekasi</p>
+          <h2>Sejarah &emsp;</h2>
+          <p> Kantin SMAN 19 Bekasi resmi didirikan pada tahun 2020. Akibat pandemi, seluruh kegiatan di sekolah terpaksa diliburkan. 
+            Pada tahun 2022, aktivitas sekolah kembali seperti biasa.  </p>
+          <p>
+            Tahun 2023, kantin SMAN 19 Bekasi merenovasi kantin untuk 
+            meningkatkan fasilitasnya menjadi lebih baik.
+          </p>
+          <p><a href="" class="tbl-biru"> Telusuri</a></p>
+        </div>
+        <img src="gambar/gorengan 2.jpg" />
+      </section>
+
+      <!-- untuk tutors -->
+      <section id="tim">
+        <div class="tengah">
+          <div class="kolom">
+            <p class="deskripsi">Pegawai Kantin</p>
+            <h2>Our Tim</h2>
+            <p>
+                "Yuk, jajan di kantin kita, dijamin puas dan tak mau pulang! &#128518;"
+            </p>
+          </div>
+
+          <div class="tutor-list">
+            <div class="kartu-tutor">
+              <img src="gambar/Tim 2.jpeg" />
+              <h1>Ibu Tety</h1>
+              <p>Sebagai Wakil Ketua</p>
+            </div>
+            <div class="kartu-tutor">
+              <img src="gambar/lik neneng.jpeg" />
+              <h1>Mamah Alif</h1>
+              <p>Sebagai Ketua</p>
+            </div>
+            <div class="kartu-tutor">
+              <img src="gambar/ai.jpeg" />
+              <h1>Aisyah</h1>
+              <p>Sebagai Sekertaris</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- untuk partners -->
+      <section id="partners">
+        <div class="tengah">
+          <div class="kolom">
+            <p class="deskripsi">Menu</p>
+            <h2>Menu Hidangan Utama</h2>
+            <p>
+              Kantin Alif menawarkan berbagai macam hidangan yang lezat untuk
+              memenuhi semua selera.
+            </p>
+          </div>
+
+          <div class="partner-list">
+            <div class="kartu-partner">
+              <img src="gambar/gorengan 1.jpg" />
+              <h1>Risol Mayo</h1>
+              <p>Harga: 2k</p>
+            </div>
+            <div class="kartu-partner">
+              <img src="gambar/goreng 5.jpg" />
+              <h1>Piscok</h1>
+              <p>Harga: 2k</p>
+            </div>
+            <div class="kartu-partner">
+              <img src="gambar/gorengan 8.jpg" />
+              <h1>Baso Tahu</h1>
+              <p>Harga: 2k</p>
+            </div>
+            <div class="kartu-partner">
+              <img src="gambar/gorengan 2.jpg" />
+              <h1>Seblak</h1>
+              <p>Harga: 7k</p>
+            </div>
+            <div class="kartu-partner">
+              <img src="gambar/gorengan4.jpg" />
+              <h1>Somay</h1>
+              <p>Harga: 8k</p>
+            </div>
+            <div class="kartu-partner">
+              <img src="gambar/gorengan walpaper.jpg" />
+              <h1>Somay</h1>
+              <p>Harga: 8k</p>
+            </div>
+            <div class="kartu-partner">
+                <img src="gambar/gorengan 6.jpg"/>
+                <h1>Sosis Solo</h1>
+                <p>Harga: 2k</p>
+          </div>
+          <div class="kartu-partner">
+            <img src="gambar/gorengan 9.jpg"/>
+            <h1>Batagor</h1>
+            <p>Harga: 8k</p>
+      </div>
+        </div>
+      </section>
+    </div>
+
+    <div id="contact">
+      <div class="wrapper">
+        <div class="footer">
+          <div class="footer-section">
+            <h3>Kantin Alif</h3>
+            <p>
+                Jl. Mawar VA Rt. 002/ Rw. 002 Kel. Padurenan Kec. Mustika Jaya Kota Bekasi
+            </p>
+            <p><b>Kode Pos : </b>
+              17151</p>
+          </div>
+          <div class="footer-section">
+            <h3>Tentang Kami</h3>
+            <br>
+            <p>
+              Buka Pukul 08.00 - 16.45 WIB
+            </p>
+          </div>
+          <div class="footer-section">
+            <h3>Kontak :</h3>
+            <p><b>Wattsapp : </b>
+           081284899934</p>
+            <p>
+          </div>
+          <div class="footer-section">
+            <h3>Sosmed</h3>
+            <p><b>Email : </b>
+              bekasisman19@gmail.com</p>
+              <p><b> Website :</b>
+                https://www.sman19kotabekasi.sch.id</p>
+              
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="copyright">
+      <div class="wrapper">
+        &copy; 2023. <b>Kantin Alif</b> All Rights Reserved.
+      </div>
+    </div>
+  </body>
+</html>
