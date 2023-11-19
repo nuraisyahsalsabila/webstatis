@@ -68,7 +68,7 @@ section {
   margin: 20;
   display: flex;
   margin-bottom: 70px;
-  text-align: end;
+  text-align: center;
 }
 
 .kolom {
@@ -104,22 +104,22 @@ a.tbl-biru {
 }
 
 a.tbl-biru:hover {
-  background: #b17238;
+  background: #f89b43;
   text-decoration: none;
 }
 
 a.tbl-orange {
-  background: rgb(119, 0, 0);
+  background: rgb(143, 101, 39);
   border-radius: 20px;
   margin-top: 20px;
   padding: 15px 20px 15px 20px;
-  color: #750f0f;
+  color: #f89b43;
   cursor: pointer;
   font-weight: bold;
 }
 
 a.tbl-pink {
-  background: #690d29;
+  background: #f89b43;
   border-radius: 20px;
   margin-top: 20px;
   padding: 15px 20px 15px 20px;
